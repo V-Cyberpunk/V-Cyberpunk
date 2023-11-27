@@ -1,6 +1,6 @@
-### Hello there 👋
+## Hello there 👋
 
-I'm the german pagan shaman nerd IT-girl also known as ᚨᛚᛟᛁ!
+### I'm the german pagan shaman nerd IT-girl also known as ᚨᛚᛟᛁ!
 
 <!--
 **V-Cyberpunk/V-Cyberpunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
