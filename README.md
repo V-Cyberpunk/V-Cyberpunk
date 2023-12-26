@@ -2,6 +2,9 @@
 
 ### I'm the german IT-girl also known as ᚨᛚᛟᛁ!
 
+⚡ professional programmer
+⚡ UNIX admin
+
 <!--
 **V-Cyberpunk/V-Cyberpunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
