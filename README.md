@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-### I'm the german IT-girl also known as ᚨᛚᛟᛁ!
+### I'm the german IT-girl!
 
 ⚡ professional programmer<br>
 ⚡ UNIX admin
