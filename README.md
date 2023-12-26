@@ -2,7 +2,7 @@
 
 ### I'm the german IT-girl also known as ᚨᛚᛟᛁ!
 
-⚡ professional programmer
+⚡ professional programmer<br>
 ⚡ UNIX admin
 
 <!--
